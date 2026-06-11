@@ -1,51 +1,114 @@
+```markdown
 ---
 layout: page
 title: Team
 permalink: /team/
 ---
 
-## Research Group Members
+# Research Team
 
-### Principal Investigator
+## Quantum Spintronics Laboratory (Q-LAB)
 
-**Dr. Brajbhusan Singh**  
-*Founding Director, Quantum Spintronics Lab*
+Department of Physics
 
-Specialization: Quantum spintronics, topological materials, quantum computing
+Harcourt Butler Technical University (HBTU), Kanpur, India
 
 ---
 
-## Group Members
+# Director
 
-### Postdoctoral Researchers
+## Dr. Braj Bhusan Singh
 
-- **Dr. Researcher Name 1** - Spin transport phenomena
-- **Dr. Researcher Name 2** - Topological spintronics
+**Assistant Professor**
+
+Department of Physics
+
+Harcourt Butler Technical University
+
+### Research Interests
+
+- Spintronics
+- Magnetic Tunnel Junctions
+- Altermagnetic Materials
+- Topological Quantum Materials
+- Spin Pumping
+- Magnetic Skyrmions
+- Magnetization Dynamics
+- Quantum Materials
+- Artificial Intelligence for Materials Discovery
+
+### Professional Highlights
+
+- 35+ Peer-Reviewed Publications
+- 40+ Conference Publications
+- 12+ Invited Talks
+- DST INSPIRE Faculty Awardee
+- International Research Collaborations
+- Expertise in Thin Film Growth and Spintronic Devices
+
+---
+
+# Research Students
+
+Q-LAB provides opportunities for
 
 ### PhD Students
 
-- **Student Name 1** - Research focus area
-- **Student Name 2** - Research focus area
-- **Student Name 3** - Research focus area
+Research topics include
 
-### Master's Students
-
-- **Student Name** - Research project
-
-### Undergraduate Researchers
-
-- **Student Name** - Summer research project
+- Altermagnetic Spintronics
+- Magnetic Tunnel Junctions
+- Quantum Materials
+- Spin Pumping
+- Skyrmions
+- Topological Physics
 
 ---
 
-## Collaborators
+### M.Sc. Students
 
-We work with leading research groups worldwide:
+Students undertake dissertation projects in
 
-- University/Institution Name
-- Research Institute Name
-- Industry Partner
+- Spintronics
+- Condensed Matter Physics
+- Nanomagnetism
+- Computational Materials Science
 
 ---
 
-Interested in joining our lab? Please [contact us](contact.md) for opportunities.
+### Undergraduate Research
+
+Highly motivated undergraduate students interested in research are encouraged to contact the laboratory for short-term projects and internships.
+
+---
+
+# Collaborations
+
+Q-LAB actively collaborates with researchers from
+
+- National Institute of Science Education and Research (NISER)
+- Indian Institutes of Technology
+- National University of Singapore
+- International Universities and Research Laboratories
+
+and welcomes new academic and industrial collaborations.
+
+---
+
+# Join Q-LAB
+
+Applications are invited throughout the year from enthusiastic students and researchers interested in
+
+- Spintronics
+- Quantum Materials
+- Altermagnetism
+- Nanotechnology
+- Artificial Intelligence
+- Computational Physics
+
+Interested candidates are encouraged to contact the laboratory with their CV and research interests.
+
+---
+
+> **"We believe that scientific excellence emerges through curiosity, collaboration, and innovation."**
+```
