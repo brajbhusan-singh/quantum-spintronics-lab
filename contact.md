@@ -30,3 +30,23 @@ We are always interested in hearing from motivated researchers and students. If 
 Please email: contact@quantumspintronics.com
 
 ### Mailing Address
+
+```
+Quantum Spintronics Lab
+[Department Name]
+[University/Institution Name]
+[Address]
+[City, State ZIP]
+[Country]
+```
+
+### Social Media & Resources
+
+- [Google Scholar](https://scholar.google.com)
+- [ResearchGate](https://www.researchgate.net)
+- [LinkedIn](https://linkedin.com)
+- [GitHub](https://github.com/brajbhusan-singh)
+
+---
+
+We look forward to connecting with the research community!
