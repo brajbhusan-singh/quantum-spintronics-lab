@@ -31,7 +31,10 @@ logo: /assets/images/hbtu-logo.png
 header_pages:
   - about.md
   - research.md
+  - projects.md
   - publications.md
+  - all-publications.md
+  - teaching.md
   - team.md
   - contact.md
 
