@@ -1,105 +1,82 @@
+```markdown
 ---
-
 layout: home
-title: Quantum Spintronics Laboratory (Q-LAB)
----------------------------------------------
+title: Home
+---
 
 # Quantum Spintronics Laboratory (Q-LAB)
 
 ### Department of Physics
-
 ### Harcourt Butler Technical University (HBTU), Kanpur, India
 
 ---
 
 ## Exploring Spin, Topology and Quantum Materials for Next-Generation Information Technologies
 
-The **Quantum Spintronics Laboratory (Q-LAB)** is dedicated to fundamental and applied research in modern condensed matter physics and spin-based information technologies. Our research combines advanced thin-film growth, nanofabrication, magnetization dynamics, and quantum materials to develop energy-efficient spintronic devices for future computing and sensing applications.
+The **Quantum Spintronics Laboratory (Q-LAB)** is dedicated to fundamental and applied research in modern condensed matter physics and spin-based information technologies. Our research combines advanced thin-film growth, nanofabrication, magnetization dynamics, and quantum materials to develop energy-efficient spintronic devices.
 
-**Director:**
+**Director**
+
 **Dr. Braj Bhusan Singh**
+
 Assistant Professor
+
 Department of Physics
-Harcourt Butler Technical University (HBTU), Kanpur
+
+Harcourt Butler Technical University
 
 ---
 
-# Research Highlights
+## Research Areas
 
-Our laboratory focuses on interdisciplinary research at the intersection of condensed matter physics, nanotechnology, and quantum materials.
+### Magnetic Tunnel Junctions
 
-## Magnetic Tunnel Junctions
+Development of high-performance magnetic tunnel junctions for memory, sensing and spin logic applications.
 
-Design and fabrication of high-performance magnetic tunnel junctions for memory, sensing, and spin logic applications.
+### Altermagnetic Spintronics
 
-## Altermagnetic Spintronics
+Exploration of emerging altermagnetic materials exhibiting unconventional spin polarization without net magnetization.
 
-Investigation of the emerging class of altermagnetic materials exhibiting unconventional spin polarization without net magnetization.
+### Topological Quantum Materials
 
-## Topological Quantum Materials
+Spin transport and spin-to-charge conversion in topological insulators and related quantum materials.
 
-Understanding spin transport and spin-to-charge conversion in topological insulators and related quantum materials.
+### Skyrmions and Chiral Magnetism
 
-## Skyrmions and Chiral Magnetism
+Nanoscale magnetic textures for future information storage and neuromorphic computing.
 
-Study of nanoscale magnetic textures for next-generation information storage and neuromorphic computing.
+### Spin Pumping and Spin-Orbit Effects
 
-## Spin Pumping and Spin-Orbit Effects
+Generation and manipulation of pure spin currents in magnetic heterostructures.
 
-Generation, manipulation, and detection of pure spin currents in magnetic heterostructures.
+### AI-Assisted Materials Discovery
 
-## AI-Assisted Materials Discovery
-
-Application of artificial intelligence and computational methods for optimization and discovery of advanced spintronic materials.
+Machine learning approaches for optimization and discovery of advanced spintronic materials.
 
 ---
 
-# Laboratory Capabilities
+## Research Impact
 
-* Thin-film growth and heterostructure engineering
-* Magnetization dynamics and ferromagnetic resonance
-* Spin pumping and inverse spin Hall effect measurements
-* Magnetotransport characterization
-* Magnetic imaging and domain analysis
-* Nanofabrication and device development
+- **35+** Peer-reviewed Publications
+- **40+** Conference Publications
+- **12+** Invited Talks
+- **International Collaborations**
 
 ---
 
-# Research Impact
+## Join Q-LAB
 
-**35+** Peer-reviewed Publications
+Q-LAB welcomes motivated students and collaborators interested in
 
-**40+** Conference Publications
+- Spintronics
+- Quantum Materials
+- Altermagnetism
+- Topological Physics
+- Computational Materials Science
 
-**12+** Invited Talks
-
-**International Collaborations** across Asia and Europe
-
----
-
-# Opportunities
-
-Q-LAB welcomes applications from highly motivated students and researchers interested in
-
-* Spintronics
-* Quantum Materials
-* Altermagnetism
-* Topological Physics
-* Computational Materials Science
-* Artificial Intelligence for Materials Research
-
-Prospective students and collaborators are encouraged to contact the laboratory.
+Please explore the Research, Publications and Contact pages for more information.
 
 ---
 
-# Explore Q-LAB
-
-* Learn more **About the Laboratory**
-* Discover our **Research Areas**
-* Browse **Publications**
-* Meet the **Research Team**
-* Explore opportunities for **Collaboration**
-
----
-
-> *"Advancing the science of spin, topology and quantum materials to enable future information technologies."*
+*"Advancing the science of spin, topology and quantum materials for future information technologies."*
+```
