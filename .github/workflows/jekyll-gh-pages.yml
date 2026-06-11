@@ -19,20 +19,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@eef61447b9ff4aafe5dcd72e0e56e3c9b5b64267
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@1198a90472c8c4d6b997e4abe51241c8755fcf3f
         with:
           ruby-version: "3.2"
           bundler-cache: true
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@983d7736951b5fb690e7b6bb3860d8dc76afa7f0
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@65b5cdc498aa3e9a18fcb460c32eeb5037cf18ee
 
   deploy:
     environment:
@@ -43,4 +43,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3
+        uses: actions/deploy-pages@91b3028ef5dfc6e6401eb74c376801e92ead2fcc
