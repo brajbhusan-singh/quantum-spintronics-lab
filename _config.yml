@@ -1,20 +1,74 @@
-title: Quantum Spintronics Lab
-description: Advanced research in quantum spintronics and condensed matter physics
+```yaml
+title: Quantum Spintronics Laboratory (Q-LAB)
+
+description: >
+  Quantum Spintronics Laboratory (Q-LAB), Department of Physics,
+  Harcourt Butler Technical University (HBTU), Kanpur, India.
+  Research in Spintronics, Altermagnetism, Magnetic Tunnel Junctions,
+  Topological Materials, Skyrmions and AI-assisted Materials Discovery.
+
 baseurl: "/quantum-spintronics-lab"
 url: "https://brajbhusan-singh.github.io/quantum-spintronics-lab"
 
 theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
+lang: en
 
 author:
-  name: Quantum Spintronics Lab
-  email: contact@quantumspintronics.com
+  name: Dr. Braj Bhusan Singh
+  email: brajbhusan.s@hbtu.ac.in
+
+logo: /assets/images/hbtu-logo.png
 
 header_pages:
   - about.md
   - research.md
-  - team.md
   - publications.md
+  - team.md
   - contact.md
+
+footer_links:
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=TYRkkxAAAAAJ&hl=en
+
+  - title: GitHub
+    url: https://github.com/brajbhusan-singh
+
+collections:
+  news:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+
+social:
+  name: Quantum Spintronics Laboratory
+  links:
+    - https://github.com/brajbhusan-singh
+    - https://scholar.google.com/citations?user=TYRkkxAAAAAJ&hl=en
+
+seo:
+  type: ResearchOrganization
+
+github:
+  repository_name: quantum-spintronics-lab
+
+exclude:
+  - Gemfile.lock
+  - vendor/
+
+permalink: pretty
+timezone: Asia/Kolkata
+```
