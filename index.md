@@ -1,59 +1,145 @@
+```markdown
 ---
-layout: home
-title: Welcome
-permalink: /
----
-
-# Quantum Spintronics Laboratory (Q-LAB)
-### Department of Physics • Harcourt Butler Technical University (HBTU), Kanpur, India
-
+layout: default
+title: Home
 ---
 
-## Exploring Spin, Topology, and Quantum Materials for Next-Generation Technologies
+<section class="hero">
 
-The **Quantum Spintronics Laboratory (Q-LAB)** is dedicated to fundamental and applied research in modern condensed matter physics and spin-based information technologies. Our research combines advanced thin-film growth, nanofabrication, magnetization dynamics, and quantum materials to develop energy-efficient spintronic devices.
+<h1>Quantum Spintronics Laboratory (Q-LAB)</h1>
 
-### Director
-**Dr. Braj Bhusan Singh**  
-Assistant Professor, Department of Physics  
-Harcourt Butler Technical University, Kanpur, India  
+<p>
 
----
+Exploring Spin, Topology and Quantum Materials for Next-Generation Information Technologies
 
-## Core Research Areas
+</p>
 
-*   **Magnetic Tunnel Junctions**  
-    Development of high-performance magnetic tunnel junctions for memory, sensing, and spin logic applications.
-*   **Altermagnetic Spintronics**  
-    Exploration of emerging altermagnetic materials exhibiting unconventional spin polarization without net magnetization.
-*   **Topological Quantum Materials**  
-    Spin transport and spin-to-charge conversion in topological insulators and related quantum materials.
-*   **Skyrmions and Chiral Magnetism**  
-    Nanoscale magnetic textures for future information storage and neuromorphic computing.
-*   **Spin Pumping & Spin-Orbit Effects**  
-    Generation and manipulation of pure spin currents in magnetic heterostructures.
-*   **AI-Assisted Materials Discovery**  
-    Machine learning approaches for optimization and discovery of advanced spintronic materials.
+<br>
 
----
+<p>
 
-## Research Impact & Metrics
+Department of Physics<br>
 
-| Metric Type | Framework Status |
-| :--- | :--- |
-| **Peer-Reviewed Publications** | 35+ Articles |
-| **Conference Presentations** | 40+ Papers |
-| **Invited Talks & Keynotes** | 12+ Presentations |
-| **Collaborative Network** | Active International Alliances |
+Harcourt Butler Technical University (HBTU)<br>
 
----
+Kanpur, Uttar Pradesh, India
 
-## Join Our Team
+</p>
 
-Q-LAB actively welcomes motivated students, postdocs, and research collaborators interested in:
-*   Spintronics & Magnetism
-*   Quantum & Topological Physics
-*   Altermagnetism Discovery
-*   Computational Materials Science
+</section>
 
-*Please explore our individual sub-pages using the navigation menu to review active projects, full publication records, and open positions.*
+<section>
+
+<div class="card">
+
+# Welcome to Q-LAB
+
+The Quantum Spintronics Laboratory (Q-LAB) conducts cutting-edge research in condensed matter physics, spintronics, quantum materials, and nanomagnetism. Our mission is to understand spin-dependent phenomena and develop energy-efficient information technologies for future computing.
+
+</div>
+
+</section>
+
+<section>
+
+# Research Highlights
+
+<div class="card">
+
+## Magnetic Tunnel Junctions (MTJs)
+
+Development of high-performance magnetic tunnel junctions for magnetic memory, sensing, and spin logic applications.
+
+</div>
+
+<div class="card">
+
+## Altermagnetic Spintronics
+
+Experimental realization and AI-assisted optimization of altermagnetic tunnel junctions for next-generation spintronic devices.
+
+</div>
+
+<div class="card">
+
+## Topological Quantum Materials
+
+Investigation of spin transport, spin pumping, and spin-to-charge conversion in topological materials.
+
+</div>
+
+<div class="card">
+
+## Magnetic Skyrmions
+
+Research on topological magnetic textures for neuromorphic computing and ultra-low-power memory technologies.
+
+</div>
+
+</section>
+
+<section>
+
+# Director
+
+<div class="card">
+
+## Dr. Braj Bhusan Singh
+
+Assistant Professor
+
+Department of Physics
+
+Harcourt Butler Technical University
+
+### Research Interests
+
+- Spintronics
+- Altermagnetism
+- Quantum Materials
+- Magnetic Tunnel Junctions
+- Topological Materials
+- Magnetic Skyrmions
+- AI for Materials Discovery
+
+</div>
+
+</section>
+
+<section>
+
+# Research Metrics
+
+<div class="card">
+
+| Achievement | Value |
+|--------------|--------|
+| Journal Publications | **35+** |
+| Conference Papers | **40+** |
+| Invited Talks | **12+** |
+| International Collaborations | **Multiple** |
+
+</div>
+
+</section>
+
+<section>
+
+<div class="card">
+
+# Join Q-LAB
+
+Applications are welcome from highly motivated
+
+- PhD Students
+- M.Sc. Students
+- Undergraduate Researchers
+- Postdoctoral Fellows
+- National & International Collaborators
+
+Please visit the Contact page for opportunities.
+
+</div>
+
+</section>
+```
