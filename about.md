@@ -1,102 +1,104 @@
+```markdown
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
 ---
 
 # About Quantum Spintronics Laboratory (Q-LAB)
 
+<div class="card">
+
 ## Department of Physics
 
-### Harcourt Butler Technical University (HBTU), Kanpur, India
+**Harcourt Butler Technical University (HBTU)**
 
----
+Kanpur, Uttar Pradesh, India
+
+The Quantum Spintronics Laboratory (Q-LAB) is dedicated to advancing fundamental and applied research in spintronics, quantum materials, nanomagnetism, and topological physics. Our research integrates experimental investigations, computational modeling, and artificial intelligence to develop next-generation information technologies.
+
+</div>
+
+<div class="card">
 
 ## Vision
 
-Quantum Spintronics Laboratory (Q-LAB) is dedicated to advancing fundamental and applied research in spintronics, quantum materials, and nanoscale magnetism. Our objective is to develop next-generation information technologies based on electron spin, topology, and emerging magnetic materials.
+To establish Q-LAB as a globally recognized research center in spintronics and quantum materials by fostering innovation, interdisciplinary collaboration, and high-impact scientific discoveries.
 
-We combine experimental investigations with computational modeling and artificial intelligence to understand and engineer novel physical phenomena for future electronic and quantum devices.
+</div>
 
----
+<div class="card">
 
-# Director
+## Mission
 
-## Dr. Braj Bhusan Singh
+- Advance frontier research in spintronics and quantum materials.
+- Develop energy-efficient spin-based electronic devices.
+- Integrate artificial intelligence with materials discovery.
+- Train the next generation of physicists and engineers.
+- Promote national and international research collaborations.
+
+</div>
+
+<div class="card">
+
+## Laboratory Director
+
+### Dr. Braj Bhusan Singh
 
 **Assistant Professor**
 
 Department of Physics
 
-Harcourt Butler Technical University (HBTU), Kanpur
+Harcourt Butler Technical University (HBTU)
 
-Dr. Braj Bhusan Singh's research focuses on the physics of magnetic heterostructures, spin transport phenomena, topological quantum materials, and advanced spintronic devices. His work spans thin-film growth, nanofabrication, magnetization dynamics, spin pumping, magnetic tunnel junctions, skyrmions, and emerging altermagnetic materials.
+### Research Interests
 
----
+- Spintronics
+- Magnetic Tunnel Junctions
+- Altermagnetic Materials
+- Topological Quantum Materials
+- Magnetic Skyrmions
+- Spin Pumping
+- Magnetization Dynamics
+- Artificial Intelligence for Materials Discovery
 
-# Research Philosophy
+</div>
 
-At Q-LAB we believe that transformative scientific discoveries emerge from the combination of
+<div class="card">
+
+## Research Philosophy
+
+Q-LAB believes that transformative discoveries emerge from the combination of
 
 - Fundamental Physics
 - Advanced Materials Engineering
 - Precision Experiments
+- Computational Modeling
 - Artificial Intelligence
 - International Collaboration
 
-Our research aims to bridge basic science and future technological applications in information storage, quantum computing, and energy-efficient electronics.
+Our objective is to bridge fundamental science with future technologies in quantum information processing, low-power electronics, and spin-based computing.
 
----
+</div>
 
-# Research Areas
+<div class="card">
 
-Our laboratory actively works in
+## Collaborations
 
-- Magnetic Tunnel Junctions (MTJs)
-- Altermagnetic Spintronics
-- Topological Quantum Materials
-- Spin Pumping and Spin-Orbit Effects
-- Magnetic Skyrmions
-- Magnetization Dynamics
-- Quantum Materials
-- AI-Assisted Materials Discovery
+The laboratory actively welcomes collaborations with
 
----
+- Universities
+- National Laboratories
+- Research Institutes
+- Industry Partners
 
-# Experimental Expertise
+working in condensed matter physics, spintronics, quantum materials, nanotechnology, and computational materials science.
 
-The laboratory possesses extensive expertise in
+</div>
 
-- Thin Film Growth
-- Ion Beam Sputtering
-- Magnetron Sputtering
-- Molecular Beam Epitaxy
-- Ferromagnetic Resonance
-- Spin Pumping Measurements
-- Magnetotransport Measurements
-- Magneto-Optic Kerr Effect
-- SQUID Magnetometry
-- Device Fabrication and Characterization
+<div class="card">
 
----
+> **Quantum Spintronics Laboratory (Q-LAB)**  
+> *Exploring Spin, Topology and Quantum Materials for Next-Generation Information Technologies.*
 
-# International Collaborations
-
-Q-LAB actively collaborates with researchers and institutions across India, Europe, and Asia, promoting interdisciplinary research in condensed matter physics, spintronics, and quantum materials.
-
----
-
-# Opportunities
-
-The laboratory welcomes applications from motivated undergraduate students, postgraduate students, PhD scholars, postdoctoral researchers, and international collaborators interested in
-
-- Spintronics
-- Quantum Materials
-- Topological Physics
-- Computational Materials Science
-- Artificial Intelligence for Materials Research
-
----
-
-> **Q-LAB is committed to advancing the science of spin, topology, and quantum materials to enable next-generation information technologies.**
-
+</div>
+```
