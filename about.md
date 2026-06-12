@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: page
 title: About
@@ -100,4 +99,4 @@ The laboratory welcomes applications from motivated undergraduate students, post
 ---
 
 > **Q-LAB is committed to advancing the science of spin, topology, and quantum materials to enable next-generation information technologies.**
-```
+
