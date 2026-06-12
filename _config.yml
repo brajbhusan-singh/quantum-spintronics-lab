@@ -4,21 +4,11 @@ baseurl: "/quantum-spintronics-lab"
 url: "https://brajbhusan-singh.github.io"
 
 theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 author:
-  name: Quantum Spintronics Lab
+  name: Dr. Braj Bhusan Singh
   email: contact@quantumspintronics.com
-
-header_pages:
-  - index.md
-  - about.md 
-  - research.md 
-  - projects.md 
-  - publications.md 
-  - all-publications.md 
-  - teaching.md 
-  - team.md 
-  - contact.md
