@@ -1,7 +1,7 @@
 title: Quantum Spintronics Lab
 description: Advanced research in quantum spintronics and condensed matter physics
 baseurl: "/quantum-spintronics-lab"
-url: "https://brajbhusan-singh.github.io/quantum-spintronics-lab"
+url: "https://brajbhusan-singh.github.io"
 
 theme: minima
 plugins:
@@ -13,11 +13,11 @@ author:
   email: contact@quantumspintronics.com
 
 header_pages:
-- about.md 
-- research.md 
-- projects.md 
-- publications.md 
-- all-publications.md 
-- teaching.md 
-- team.md 
-- contact.md
+  - about.md 
+  - research.md 
+  - projects.md 
+  - publications.md 
+  - all-publications.md 
+  - teaching.md 
+  - team.md 
+  - contact.md
