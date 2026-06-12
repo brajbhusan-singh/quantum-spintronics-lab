@@ -1,24 +1,23 @@
-title: Quantum Spintronics Lab
-description: Advanced research in quantum spintronics and condensed matter physics
+```yaml
+title: "Quantum Spintronics Laboratory (Q-LAB)"
+
+description: "Advanced research in Spintronics, Altermagnetism, Quantum Materials and Condensed Matter Physics"
+
 baseurl: "/quantum-spintronics-lab"
+
 url: "https://brajbhusan-singh.github.io"
 
-theme: minima
+markdown: kramdown
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 author:
-  name: Quantum Spintronics Lab
-  email: contact@quantumspintronics.com
+  name: "Dr. Braj Bhusan Singh"
+  email: "brajbhusan.s@hbtu.ac.in"
 
-header_pages:
-  - index.md
-  - about.md 
-  - research.md 
-  - projects.md 
-  - publications.md 
-  - all-publications.md 
-  - teaching.md 
-  - team.md 
-  - contact.md
+permalink: pretty
+
+timezone: Asia/Kolkata
+```
