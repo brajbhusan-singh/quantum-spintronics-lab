@@ -1,154 +1,148 @@
 ```markdown
 ---
-layout: page
+layout: default
 title: Research
-permalink: /research/
 ---
 
 # Research
 
-## Quantum Spintronics Laboratory (Q-LAB)
+<section>
 
-The Quantum Spintronics Laboratory focuses on experimental and computational research in condensed matter physics, spintronics, and quantum materials. Our goal is to understand spin-dependent phenomena and develop next-generation electronic devices based on electron spin rather than charge.
+<div class="card">
 
----
+## Research Overview
 
-# Research Areas
+The Quantum Spintronics Laboratory (Q-LAB) performs interdisciplinary research in condensed matter physics, spintronics, nanomagnetism, and quantum materials. Our work combines experimental techniques with computational modeling and artificial intelligence to develop future low-power information technologies.
+
+</div>
+
+</section>
+
+<section>
+
+# Major Research Areas
+
+<div class="card">
 
 ## Magnetic Tunnel Junctions (MTJs)
 
-Magnetic tunnel junctions are the fundamental building blocks of modern spintronic memory and sensing technologies.
+Development of high-performance magnetic tunnel junctions for
 
-Current research includes
+- Magnetic Random Access Memory (MRAM)
+- Spin Logic Devices
+- Magnetic Sensors
+- Neuromorphic Computing
 
-- Thin film growth and interface engineering
-- Spin-dependent tunneling
-- Tunnel magnetoresistance (TMR)
-- Spin-transfer torque devices
-- Energy-efficient magnetic memory
+</div>
 
----
+<div class="card">
 
 ## Altermagnetic Spintronics
 
-Altermagnets represent a new class of magnetic materials combining the advantages of ferromagnets and antiferromagnets.
+Current investigations include
 
-Current interests include
+- CrSb-based Altermagnetic Tunnel Junctions
+- Spin Polarization without Net Magnetization
+- AI-Assisted Device Optimization
+- Next-Generation Spin Logic
 
-- Altermagnetic tunnel junctions
-- Spin polarization without net magnetization
-- Spin transport phenomena
-- AI-assisted optimization of altermagnetic devices
-- Next-generation spin logic
+</div>
 
----
+<div class="card">
 
 ## Topological Quantum Materials
 
-We investigate spin transport and spin-to-charge conversion in topological materials possessing strong spin-orbit coupling.
-
 Research topics include
 
-- Topological insulators
-- Inverse spin Hall effect
-- Inverse Rashba-Edelstein effect
-- Surface-state spin transport
-- Spin conversion efficiency
+- Topological Insulators
+- Spin Hall Effect
+- Inverse Rashba-Edelstein Effect
+- Spin-to-Charge Conversion
+- Interface Magnetism
 
----
+</div>
 
-## Spin Pumping and Magnetization Dynamics
-
-Generation and manipulation of pure spin currents using dynamic magnetization.
-
-Research activities include
-
-- Ferromagnetic resonance
-- Spin pumping
-- Spin mixing conductance
-- Spin Hall angle measurements
-- Magnetic damping
-
----
+<div class="card">
 
 ## Magnetic Skyrmions
 
-Magnetic skyrmions are nanoscale topological spin textures with enormous potential for future information technologies.
+Our laboratory explores
 
-Current work focuses on
+- Chiral Magnetism
+- Synthetic Antiferromagnets
+- Domain Wall Dynamics
+- Racetrack Memory
+- Topological Spin Textures
 
-- Synthetic antiferromagnets
-- Skyrmion stability
-- Domain wall dynamics
-- Dzyaloshinskii-Moriya interaction
-- Skyrmion-based memory concepts
+</div>
 
----
+<div class="card">
 
-## Quantum Materials and Thin Film Engineering
+## Spin Pumping and Magnetization Dynamics
 
-Development and characterization of advanced materials for spintronic applications.
+Experimental studies include
 
-Expertise includes
+- Ferromagnetic Resonance (FMR)
+- Spin Pumping
+- Spin Mixing Conductance
+- Magnetic Damping
+- Pure Spin Current Generation
 
-- Ion beam sputtering
-- Magnetron sputtering
-- Molecular beam epitaxy
-- Thin-film heterostructures
-- Magnetic multilayers
+</div>
 
----
+<div class="card">
 
 ## Artificial Intelligence for Materials Discovery
 
-Machine learning and artificial intelligence are increasingly being integrated into our research for
+We integrate machine learning with experimental physics for
 
-- Materials optimization
-- Device parameter prediction
-- Automated data analysis
-- Inverse materials design
-- Intelligent spintronic device development
+- Materials Optimization
+- Device Prediction
+- Automated Data Analysis
+- High-Throughput Materials Screening
+- Intelligent Spintronic Device Design
 
----
+</div>
 
-# Experimental Techniques
+</section>
 
-The laboratory has expertise in
+<section>
 
-- Thin Film Deposition
-- Magneto-Transport Measurements
+# Experimental Expertise
+
+<div class="card">
+
+- Thin Film Growth
+- Magnetron Sputtering
+- Ion Beam Sputtering
+- Molecular Beam Epitaxy
+- Magnetotransport Measurements
 - Ferromagnetic Resonance
 - Magneto-Optic Kerr Effect
 - SQUID Magnetometry
-- Spin Pumping Measurements
 - Device Fabrication
-- Structural and Magnetic Characterization
 
----
+</div>
 
-# Current Research Directions
+</section>
 
-- Altermagnetic Tunnel Junctions
-- Spin-Orbit Torque Devices
-- Topological Spin Transport
-- Spin Current Generation and Detection
-- AI-Assisted Materials Optimization
-- Quantum Information Materials
-- Low-Power Spintronic Devices
+<section>
 
----
+# Vision
 
-# Collaborations
+<div class="card">
 
-Q-LAB actively collaborates with national and international research groups working in
+Q-LAB aims to establish a world-class research program in
 
 - Spintronics
-- Condensed Matter Physics
 - Quantum Materials
-- Nanotechnology
-- Computational Materials Science
+- Altermagnetism
+- Topological Electronics
+- Artificial Intelligence for Materials Science
 
----
+through innovation, collaboration, and excellence in scientific research.
 
-> **Our vision is to advance the science of spin, topology, and quantum materials to enable future low-power information technologies and quantum devices.**
+</div>
+
+</section>
 ```
