@@ -13,6 +13,7 @@ author:
   email: contact@quantumspintronics.com
 
 header_pages:
+  - index.md
   - about.md 
   - research.md 
   - projects.md 
